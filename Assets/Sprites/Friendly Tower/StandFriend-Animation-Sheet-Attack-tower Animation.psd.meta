@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 291f3039d51bd694abbbf54e970f99ec
+timeCreated: 1485015786
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StandFriend-Animation-Sheet-Attack-tower Animation_0
+    21300002: Frame#11
+    21300004: Frame#10
+    21300006: Frame#9
+    21300008: Frame#8
+    21300010: Frame#7
+    21300012: Frame#6
+    21300014: Frame#5
+    21300016: Frame#4
+    21300018: Frame#3
+    21300020: Frame#2
+    21300022: Frame#1
+    21300024: StandFriend-Animation-Sheet-Attack-tower Animation_12
+    21300026: StandFriend-Animation-Sheet-Attack-tower Animation_13
+    21300028: StandFriend-Animation-Sheet-Attack-tower Animation_14
+    21300030: StandFriend-Animation-Sheet-Attack-tower Animation_15
+    21300032: StandFriend-Animation-Sheet-Attack-tower Animation_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Attack-tower Animation_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 85
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 49
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 49
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 49
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 49
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 49
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 49
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 49
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#2
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 49
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame#1
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 49
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Attack-tower Animation_12
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 61
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Attack-tower Animation_13
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 61
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Attack-tower Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 61
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Attack-tower Animation_15
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Attack-tower Animation_16
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 61
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

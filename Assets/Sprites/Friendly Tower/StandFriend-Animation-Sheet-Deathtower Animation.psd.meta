@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 747de43912eeaac468fd8a0ed5cd15de
+timeCreated: 1485033264
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frame#17
+    21300002: frame#16
+    21300004: frame#15
+    21300006: frame#14
+    21300008: frame#13
+    21300010: frame#12
+    21300012: frame#11
+    21300014: StandFriend-Animation-Sheet-Deathtower Animation_7
+    21300016: frame#9
+    21300018: frame#8
+    21300020: frame#7
+    21300022: frame#6
+    21300024: frame#5
+    21300026: frame#4
+    21300028: frame#3
+    21300030: frame#2
+    21300032: frame#1
+    21300034: StandFriend-Animation-Sheet-Deathtower Animation_17
+    21300036: StandFriend-Animation-Sheet-Deathtower Animation_18
+    21300038: StandFriend-Animation-Sheet-Deathtower Animation_19
+    21300040: StandFriend-Animation-Sheet-Deathtower Animation_20
+    21300042: StandFriend-Animation-Sheet-Deathtower Animation_21
+    21300044: StandFriend-Animation-Sheet-Deathtower Animation_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frame#17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 62
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 62
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 63
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 57
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 56
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 53
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 50
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Deathtower Animation_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 51
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 51
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 51
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 51
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 51
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#5
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 51
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#4
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 50
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#3
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 50
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#2
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 50
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frame#1
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 51
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Deathtower Animation_17
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 60
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Deathtower Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 67
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Deathtower Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 60
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Deathtower Animation_20
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 60
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Deathtower Animation_21
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 60
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StandFriend-Animation-Sheet-Deathtower Animation_22
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 60
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
